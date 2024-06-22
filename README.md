@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @FarisAlharthi
-- 👀 I’m interested in Flutter
+- 👋 Hi, I’m Faris Alharthi
